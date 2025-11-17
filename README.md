@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="[https://www.linkedin.com/in/yousef-faisal/](https://www.linkedin.com/in/ammar-elmihy-3ab1a6256/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BrNVIxrRAQCS7Z4fiSjjD9w%3D%3D)" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Elmihy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/ammar-elmihy/]([https://www.linkedin.com/in/ammar-elmihy-3ab1a6256/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BrNVIxrRAQCS7Z4fiSjjD9w%3D%3D](https://www.linkedin.com/in/ammar-elmihy-725b31358))" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Elmihy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <p align="center">
   <a href="https://github.com/Amoory-Elmihy-77?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Amoory-Elmihy-77&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Amoory-Elmihy-77's GitHub stats"/>
