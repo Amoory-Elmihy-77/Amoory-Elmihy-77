@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer...;WE%20NEVER%20Stop%20LEARNING&font=Fira%20Code&center=true&width=490&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-Stack%20Developer...;WE%20NEVER%20Stop%20LEARNING;SOFTWARE%20ENGINEER;AI%20INTERN&font=Fira%20Code&center=true&width=490&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 - 🏢 I'm a Full-Stack Developer and CS Student.
