@@ -1,119 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:f75c7e&height=220&section=header&text=Ammar%20Elmihy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20(Node.js)%20%C2%B7%20Generative%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Engineer%20(Node.js)...;Generative%20AI%20%2F%20RAG%20Builder...;Computer%20Science%20Graduate%2C%202026...;Always%20Shipping%2C%20Always%20Learning&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=22&pause=1500"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Amoory-Elmihy-77&style=for-the-badge&color=f75c7e&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Amoory-Elmihy-77?style=for-the-badge&color=302b63&labelColor=0f0c29"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-### 👋 &nbsp;About Me
-
-<img align="right" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY0NTI5YjE2MGJjMDIzMDk1NTAwNDg1OWY5NjE5YzZkZjc5MGU2MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif"/>
-
-```yaml
-name: Ammar Elmihy
-role: Backend Engineer · Generative AI
-location: Mansoura, Egypt
-education: B.Sc. Computer Science, Mansoura University (2026)
-focus:
-  - Node.js / Express APIs at scale
-  - MongoDB-backed services
-  - RAG pipelines & LLM-integrated systems
-  - Dockerized, cloud-ready deployments
-currently: shipping production AI features
-fun_fact: fueled entirely by coffee ☕
+```
+┌─────────────────────────────────────────────┐
+│  whoami                                      │
+│  > ammar elmihy                              │
+│  > backend engineer :: node.js               │
+│  > generative ai :: rag / llm                 │
+│  > status: online                            │
+└─────────────────────────────────────────────┘
 ```
 
-<br clear="right"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-### 🧰 &nbsp;Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark"/>
-
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark"/>
-
-**Databases & Messaging**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,kafka,rabbitmq&theme=dark"/>
-
-**AI / Generative AI**
-<br/>
-<img src="https://img.shields.io/badge/RAG%20Systems-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e"/>
-<img src="https://img.shields.io/badge/LLM%20Integration-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e"/>
-<img src="https://img.shields.io/badge/Groq-302b63?style=for-the-badge&logo=lightning&logoColor=f75c7e"/>
-
-**DevOps & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux&theme=dark"/>
-
-**Testing & Observability**
-<br/>
-<img src="https://skillicons.dev/icons?i=jest&theme=dark"/>
-<img src="https://img.shields.io/badge/Prometheus-302b63?style=for-the-badge&logo=prometheus&logoColor=f75c7e"/>
-<img src="https://img.shields.io/badge/Grafana-302b63?style=for-the-badge&logo=grafana&logoColor=f75c7e"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-302b63?style=for-the-badge&logo=opentelemetry&logoColor=f75c7e"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+![](https://img.shields.io/badge/mansoura%2C_egypt-000000?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/b.sc._computer_science-000000?style=flat-square)
+![](https://img.shields.io/badge/graduating-2026-000000?style=flat-square)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br>
 
-### 📊 &nbsp;GitHub Stats
+## ▸ about
+
+```txt
+Backend Engineer and CS graduate focused on Node.js/Express APIs,
+MongoDB-backed services, and Dockerized deployments. Builds and
+ships Generative AI systems — RAG pipelines, LLM-integrated
+services — into production. Cross-stack when the project needs it,
+picking up React/Next.js on the frontend side.
+```
+
+<br>
+
+## ▸ stack
+
+<table>
+<tr><td><b>lang</b></td><td>
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB"/>
+</td></tr>
+<tr><td><b>backend</b></td><td>
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/-GraphQL-000000?style=flat-square&logo=graphql&logoColor=E10098"/>
+</td></tr>
+<tr><td><b>data</b></td><td>
+<img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/-RabbitMQ-000000?style=flat-square&logo=rabbitmq&logoColor=FF6600"/>
+</td></tr>
+<tr><td><b>ai / genai</b></td><td>
+<img src="https://img.shields.io/badge/-RAG_Systems-000000?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LLM_Integration-000000?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Groq-000000?style=flat-square"/>
+</td></tr>
+<tr><td><b>devops</b></td><td>
+<img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/-Nginx-000000?style=flat-square&logo=nginx&logoColor=009639"/>
+<img src="https://img.shields.io/badge/-GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+</td></tr>
+<tr><td><b>testing / obs</b></td><td>
+<img src="https://img.shields.io/badge/-Jest-000000?style=flat-square&logo=jest&logoColor=C21325"/>
+<img src="https://img.shields.io/badge/-Prometheus-000000?style=flat-square&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/-Grafana-000000?style=flat-square&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/-OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
+</td></tr>
+<tr><td><b>frontend</b></td><td>
+<img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Redux-000000?style=flat-square&logo=redux&logoColor=764ABC"/>
+<img src="https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+</td></tr>
+</table>
+
+<br>
+
+## ▸ stats
+
+<div align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Amoory-Elmihy-77&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=ffffff&icon_color=888888&text_color=cccccc" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Amoory-Elmihy-77&hide_border=true&background=00000000&stroke=ffffff&ring=888888&fire=888888&currStreakLabel=ffffff&sideLabels=cccccc&dates=cccccc" width="48%"/>
+</div>
+
+<br>
+
+## ▸ contact
+
+| | |
+|---|---|
+| **email** | [amaryasser2358@gmail.com](mailto:amaryasser2358@gmail.com) |
+| **whatsapp** | [+20 105 055 3540](https://wa.me/201050553540) |
+| **linkedin** | [ammar-elmihy](https://www.linkedin.com/in/ammar-elmihy-725b31358) |
+| **github** | [Amoory-Elmihy-77](https://github.com/Amoory-Elmihy-77) |
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Amoory-Elmihy-77&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0f0c29&title_color=f75c7e&icon_color=f75c7e&text_color=e0e0e0" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Amoory-Elmihy-77&hide_border=true&background=0f0c29&stroke=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e&sideLabels=e0e0e0&dates=e0e0e0" width="48%"/>
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Amoory-Elmihy-77&layout=compact&hide_border=true&theme=radical&bg_color=0f0c29&title_color=f75c7e&text_color=e0e0e0" width="45%"/>
+`// end of file`
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-### 🌐 &nbsp;Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ammar-elmihy-725b31358" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="mailto:amaryasser2358@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/201050553540" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-<a href="https://github.com/Amoory-Elmihy-77" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f75c7e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
