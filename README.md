@@ -38,35 +38,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/Amoory-Elmihy-77/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amoory-Elmihy-77&theme=onedark" alt="trophy">
-  </a>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-**[MindSense — AI Multimodal Emotion & Mental Health Platform](#)**
-Graduation Project · React, Flutter, Node.js, Express.js, FastAPI, MongoDB, Docker, Wav2Vec2, RAG, Groq
-- Contributed to a 10-member team building a production-ready platform detecting emotional and mental health signals from speech and text
-- Integrated a Wav2Vec2 speech emotion recognition model (99.3% accuracy) with a FastAPI AI microservice
-- Built a RAG-based intervention and recommendation pipeline using Groq for LLM inference
-- Designed and deployed a 3-service Docker Compose architecture with full system architecture documentation
-
-**[SkillMatch](#)** — MERN Stack, JWT, Tailwind CSS
-- Full-stack job and skill-matching platform with authentication, role-based access control, and secure RESTful APIs
-
-**[Social App](#)** — Next.js, React, Redux, MUI
-- Social-style web app using Next.js SSR for performance, with global state managed via Redux
-
-**[Buy Nest](#)** — React, Context API, Tailwind CSS
-- E-commerce app with product listing, cart, and checkout flow, with global cart state management
-
-**[Education Platform](#)** — React.js, JavaScript, Tailwind CSS · DEPI Final Project
-- Frontend for an educational platform, focused on component reusability and responsive design
-
 ---
 
 ### 🛠 Tech Stack
