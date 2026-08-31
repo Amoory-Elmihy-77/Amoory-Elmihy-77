@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=200&section=header&text=Ammar%20Elmihy&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20(Node.js)%20%C2%B7%20Generative%20AI%20Builder&descAlignY=60&descSize=17" width="100%"/>
+<h2 align="center">
+  Welcome to Ammar Elmihy's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Engineer%20(Node.js)...;Generative%20AI%20%2F%20RAG%20Builder...;Computer%20Science%20Graduate%2C%202026...;Always%20Shipping%2C%20Always%20Learning&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=22&pause=1500"/>
