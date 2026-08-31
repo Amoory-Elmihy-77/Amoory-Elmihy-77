@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:f75c7e&height=220&section=header&text=Ammar%20Elmihy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20(Node.js)%20%C2%B7%20Generative%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151a2e,50:343b5c,100:c06a7a&height=220&section=header&text=Ammar%20Elmihy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20(Node.js)%20%C2%B7%20Generative%20AI%20Builder&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Engineer%20(Node.js)...;Generative%20AI%20%2F%20RAG%20Builder...;Computer%20Science%20Graduate%2C%202026...;Always%20Shipping%2C%20Always%20Learning&font=Fira%20Code&center=true&width=520&height=45&color=f75c7e&vCenter=true&size=22&pause=1500"/>
@@ -25,60 +25,37 @@
 name: Ammar Elmihy
 role: Backend Engineer · Generative AI
 location: Mansoura, Egypt
-education: B.Sc. Computer Science, Mansoura University (2026)
+education: Computer Science graduate, Mansoura University (2026)
 focus:
   - Node.js / Express APIs at scale
   - MongoDB-backed services
   - RAG pipelines & LLM-integrated systems
   - Dockerized, cloud-ready deployments
 currently: shipping production AI features
-fun_fact: fueled entirely by coffee ☕
+fun_fact: fueled entirely by coffee and tea☕
 ```
 
 <br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🧰 &nbsp;Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark"/>
+**Languages** <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark"/>
 
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark"/>
+**Backend & APIs** <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark"/>
 
-**Databases & Messaging**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,kafka,rabbitmq&theme=dark"/>
+**Databases & Messaging** <img src="https://skillicons.dev/icons?i=mongodb,kafka,rabbitmq&theme=dark"/>
 
-**AI / Generative AI**
-<br/>
-<img src="https://img.shields.io/badge/RAG%20Systems-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e"/>
-<img src="https://img.shields.io/badge/LLM%20Integration-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e"/>
-<img src="https://img.shields.io/badge/Groq-302b63?style=for-the-badge&logo=lightning&logoColor=f75c7e"/>
+**AI / Generative AI** <img src="https://img.shields.io/badge/RAG%20Systems-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e"/> <img src="https://img.shields.io/badge/LLM%20Integration-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e"/> <img src="https://img.shields.io/badge/Groq-302b63?style=for-the-badge&logo=lightning&logoColor=f75c7e"/>
 
-**DevOps & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux&theme=dark"/>
+**DevOps & Cloud** <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux&theme=dark"/>
 
-**Testing & Observability**
-<br/>
-<img src="https://skillicons.dev/icons?i=jest&theme=dark"/>
-<img src="https://img.shields.io/badge/Prometheus-302b63?style=for-the-badge&logo=prometheus&logoColor=f75c7e"/>
-<img src="https://img.shields.io/badge/Grafana-302b63?style=for-the-badge&logo=grafana&logoColor=f75c7e"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-302b63?style=for-the-badge&logo=opentelemetry&logoColor=f75c7e"/>
+**Frontend** <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark"/>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+**Tools** <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
