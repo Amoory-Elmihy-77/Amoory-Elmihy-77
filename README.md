@@ -39,40 +39,61 @@ fun_fact: fueled entirely by coffee and tea☕
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🧰 Tech Stack
+## 🧰 &nbsp;Tech Stack
 
-<div align="center">
+### Languages
 
-**Languages** <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark"/>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" />
+</div>
 
-**Backend & APIs** <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark"/>
+### Backend & APIs
 
-**Databases & Messaging** <img src="https://skillicons.dev/icons?i=mongodb,kafka,rabbitmq&theme=dark"/>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark" />
+</div>
 
-**AI / Generative AI** <img src="https://img.shields.io/badge/RAG%20Systems-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e"/> <img src="https://img.shields.io/badge/LLM%20Integration-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e"/> <img src="https://img.shields.io/badge/Groq-302b63?style=for-the-badge&logo=lightning&logoColor=f75c7e"/>
+### Databases & Messaging
 
-**DevOps & Cloud** <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux&theme=dark"/>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,kafka,rabbitmq&theme=dark" />
+</div>
 
-**Frontend** <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark"/>
+### AI / Generative AI
 
-**Tools** <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<div align="left">
+<img src="https://img.shields.io/badge/RAG%20Systems-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e" />
+<img src="https://img.shields.io/badge/LLM%20Integration-302b63?style=for-the-badge&logo=openai&logoColor=f75c7e" />
+<img src="https://img.shields.io/badge/Groq-302b63?style=for-the-badge&logo=lightning&logoColor=f75c7e" />
+</div>
 
+### DevOps & Cloud
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx,linux&theme=dark" />
+</div>
+
+### Frontend
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" />
+</div>
+
+### Tools
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ### 📊 &nbsp;GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Amoory-Elmihy-77&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0f0c29&title_color=f75c7e&icon_color=f75c7e&text_color=e0e0e0" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Amoory-Elmihy-77&hide_border=true&background=0f0c29&stroke=f75c7e&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e&sideLabels=e0e0e0&dates=e0e0e0" width="48%"/>
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Amoory-Elmihy-77&layout=compact&hide_border=true&theme=radical&bg_color=0f0c29&title_color=f75c7e&text_color=e0e0e0" width="45%"/>
-
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Amoory-Elmihy-77&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Amoory-Elmihy-77&hide_border=true&theme=tokyonight" width="48%"/>
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br/>
 
 ### 🌐 &nbsp;Connect With Me
 
