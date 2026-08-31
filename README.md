@@ -73,5 +73,3 @@ fun_fact: fueled entirely by coffee and tea☕
 </a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f75c7e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
